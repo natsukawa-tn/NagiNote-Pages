@@ -11,5 +11,5 @@
 
 App 中的地址：`https://natsukawa-tn.github.io/NagiNote-Pages/<lang>/<page>.html`（见 `AppConstants`）
 
-上架后：把各语言 `index.html` 中的「App Store で近日公開」按钮换成 App Store 链接（`https://apps.apple.com/app/id<AppID>`）。
+App Store：`https://apps.apple.com/app/id6821339882`（产品页的下载按钮，脚本中的 `APP_STORE_URL`）。
 App 的功能或数据处理方式变化时，同步更新 3 种语言的隐私政策和「最終更新日」。
